@@ -1,4 +1,4 @@
-# Quiniela
+# Quiniela, combinaciones y condiciones
 Este es el código realizado en Java.
 ```Java
 package ejerQuiniela;
